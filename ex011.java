@@ -1,4 +1,4 @@
-// Programa que converte String pra Float.
+// Programa que converte String para Float.
 public class ex011 {
     public static void main(String[] args) {
         String valor = "30.5";

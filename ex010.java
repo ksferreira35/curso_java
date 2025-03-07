@@ -1,4 +1,4 @@
-// Programa que converte String pra Int.
+// Programa que converte String para Int.
 public class ex010 {
     public static void main(String[] args) {
         String valor = "17";
