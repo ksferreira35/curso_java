@@ -1,3 +1,4 @@
+// Programa que analisa a quantidade de pernas, e mostra o seu tipo utilizando estruturas condionais (if, else if)
 import java.util.Scanner;
 
 public class ex036 {
@@ -26,3 +27,4 @@ public class ex036 {
         }    
     }
 }
+// Desenvolvido por Kaiky - 2025

@@ -1,4 +1,4 @@
-
+// Programa que analisa o valor dos segmentos do triângulo e mostra se pode ou não formar um triângulo, e após isso mostra o seu tipo.
 import java.util.Scanner;
 
 public class ex038 {
@@ -34,3 +34,4 @@ public class ex038 {
         }        
     }
 }
+// Desenvolvido por Kaiky - 2025

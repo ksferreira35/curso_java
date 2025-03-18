@@ -1,3 +1,4 @@
+// Programa que calcula o delta.
 import java.util.Scanner;
 
 public class ex033 {
@@ -23,3 +24,4 @@ public class ex033 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

@@ -1,3 +1,4 @@
+// Programa que utiliza operadores lógicos para melhor entendimento.
 public class ex027 {
     public static void main(String[] args) {
         boolean val1 = (4 >= 5), val2 = (4 < 4), val3 = (val1 == val2);
@@ -14,3 +15,4 @@ public class ex027 {
          */
     }
 }
+// Desenvolvido por Kaiky - 2025

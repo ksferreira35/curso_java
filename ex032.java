@@ -1,4 +1,4 @@
-
+// Programa que analisa a idade do usuário e mostra se o voto é opcional, obrigatório ou não vota.
 import java.util.Scanner;
 
 public class ex032 {
@@ -7,7 +7,9 @@ public class ex032 {
             System.out.print("Em que ano você nasceu? ");
             int nasc = input.nextInt();
             int idade = 2025 - nasc;
+        
             System.out.printf("Você tem %d anos de idade.\n", idade);
+            
             if (idade < 16) {
                 System.out.println("NÃO VOTA!");
 
@@ -23,3 +25,4 @@ public class ex032 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

@@ -1,4 +1,4 @@
-
+// Programa que analisa a idade do usuário de mostra se o voto e opcional, obrigatório e não vota, com alterações que deixa o código mais leve e limpo.
 import java.util.Scanner;
 
 public class ex035 {
@@ -20,3 +20,4 @@ public class ex035 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

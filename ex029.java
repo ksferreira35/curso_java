@@ -1,3 +1,4 @@
+// Programa que utiliza estruturas condicionais para parabenizar o aluno por sua média
 import java.util.Scanner;
 
 public class ex029 {
@@ -18,3 +19,4 @@ public class ex029 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

@@ -1,3 +1,4 @@
+// Programa que analisa a idade é mostra se a pessoa é maior ou menor de idade.
 import java.util.Scanner;
 
 public class ex030 {
@@ -6,6 +7,7 @@ public class ex030 {
             System.out.print("Em que ano a pessoa nasceu? ");
             int nasc = input.nextInt();
             int idade = 2025 - nasc;
+            
             if (idade>=18) {
                 System.out.println("A pessoa é MAIOR de idade");
             } else {
@@ -14,3 +16,4 @@ public class ex030 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

@@ -1,3 +1,4 @@
+// Programa que utiliza a estrutura condional (switch), com objetivo de mostrar o tipo do animal de acordo com suas pernas.
 import java.util.Scanner;
 
 public class ex037 {
@@ -24,3 +25,4 @@ public class ex037 {
         }
     }
 }
+// Desenvolvido por Kaiky - 2025

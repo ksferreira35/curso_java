@@ -1,4 +1,4 @@
-// Programa que 
+// Um mini jogo criado de adivinhação v1.0.0
 import java.util.Scanner;
 
 public class ex028 {
