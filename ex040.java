@@ -11,10 +11,14 @@ public class ex040 {
             int cc = 0;
 
             while (cc < (fim + 1)) {
-                System.out.println(cc);
+                System.out.print(cc + " ");
                 cc++;
                 TimeUnit.SECONDS.sleep(1);
+                if (cc == fim + 1) {
+                    System.out.println("BOOM!");
+                }
             }
         }
     }
 }
+// Desenvolvido por Kaiky - 2025
