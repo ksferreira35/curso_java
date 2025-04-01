@@ -1,2 +1,3 @@
 # curso_java
-Minha jornada no mundo java
+---
+My journey in the Java world through different courses.
