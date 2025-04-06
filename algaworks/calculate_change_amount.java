@@ -15,7 +15,7 @@ public class calculate_change_amount {
         Double result = priceProvided - productPrice;
 
         DecimalFormat df = new DecimalFormat("0.00");
-        System.out.println("The customer's change is R$" + df.format(result));
+        System.out.println("The customer's change is $" + df.format(result));
 
         scanner.close();
     }
