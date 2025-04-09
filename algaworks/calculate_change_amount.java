@@ -21,4 +21,3 @@ public class calculate_change_amount {
     }
 
 }
-
