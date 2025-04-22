@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class calculate_change_amount {
+public class CalculateChangeAmount {
     @SuppressWarnings("ConvertToTryWithResources") // The scanner is underlined, so I added this to prevent it from being underlined in VSCode.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

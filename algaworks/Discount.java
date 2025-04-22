@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class discount {
+public class Discount {
 
     static final Integer MIN_QUANTITY_FOR_DISCOUNT = 10;
     static final Float DISCOUNT = 0.9f;  // equivalent to 10% discount

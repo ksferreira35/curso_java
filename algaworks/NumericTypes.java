@@ -1,4 +1,4 @@
-public class numericTypes {
+public class NumericTypes {
     @SuppressWarnings("unused")
     public static void main(String[] args) {
         Byte numberByte = 1; // -128 to 127

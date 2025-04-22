@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class studentGrade {
+public class StudentGrade {
     static final double MIN_GRADE_TO_PASS = 70;
 
     @SuppressWarnings("ConvertToTryWithResources") // The scanner is underlined, so I added this to prevent it from being underlined in VSCode.

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nameandlastname {
+public class NameAndLastName {
         @SuppressWarnings("ConvertToTryWithResources") // The scanner is underlined, so I added this to prevent it from being underlined in VSCode.
 
     public static void main(String[] args) {

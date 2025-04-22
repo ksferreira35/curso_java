@@ -1,6 +1,6 @@
     import java.util.Scanner;
 
-    public class retirementPlan {
+    public class RetirementPlan {
         static final Integer MINIMUM_AGE = 55;
         static final Integer MINIMUM_CONTRIBUTIONS = 25;
         @SuppressWarnings("ConvertToTryWithResources") // The scanner is underlined, so I added this to prevent it from being underlined in VSCode.
