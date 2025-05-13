@@ -59,7 +59,7 @@ public class SimpleCalculator {
                     yield num1 / num2;
                 }
             }
-            default -> null; // Nunca chega aqui por causa da verificação no menu
+            default -> null;
         };
     }
 }
